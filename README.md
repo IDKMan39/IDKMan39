@@ -7,7 +7,8 @@ This repository includes:
 - Image manipulation using the Pillow Python library. 
 
 
- ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/IDKMan39/langs)](https://githubtrends.io)
+ [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
 
 
 
