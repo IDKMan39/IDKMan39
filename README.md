@@ -8,7 +8,7 @@ This repository includes:
 
 Play the below video to see some of my projects:
 
-[![Intro Video Compilation](https://img.youtube.com/vi/Kp2KPuOj_I8/0.jpg)](https://www.youtube.com/watch?v=-Kp2KPuOj_I8)
+[![Intro Video Compilation](https://img.youtube.com/vi/Kp2KPuOj_I8/0.jpg)](https://www.youtube.com/watch?v=Kp2KPuOj_I8)
 
 
 
