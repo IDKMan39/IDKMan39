@@ -6,7 +6,7 @@ This repository includes:
 - Games such as Chess, Checkers, and 2048 with custom graphical user interfaces and logic.
 - Image manipulation using the Pillow Python library. 
 
-Play the below video to see some of my projects:
+Play the image below to see some of my projects:
 
 [![Intro Video Compilation](https://img.youtube.com/vi/Kp2KPuOj_I8/0.jpg)](https://www.youtube.com/watch?v=Kp2KPuOj_I8)
 
