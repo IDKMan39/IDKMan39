@@ -1,4 +1,4 @@
-I am a hard-working student with programming experience in Java, HTML5, CSS, Javascript, and Python. I am seeking to earn a Bachelor of Science degree from a leading Computer Science university. I am interested in expanding my knowledge of software development. 
+I am a hard-working student with programming experience in Java, HTML5, CSS, Javascript, and Python. I am seeking to earn a Bachelor of Science degree from a leading Computer Science university.  I am working to earn a Bachelor of Science degree from the New Jersey Institute of Technology. I am most interested in expanding my knowledge of software development through interesting internships and projects.
 This repository includes: 
 - Web scrapers
 - Text analysis programs
