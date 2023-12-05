@@ -4,7 +4,9 @@ This repository includes:
 - Text analysis programs
 - Physics simulators using Python and the Pymunk library. 
 - Games such as Chess, Checkers, and 2048 with custom graphical user interfaces and logic.
-- Image manipulation using the Pillow Python library. 
+- Image manipulation using the Pillow Python library.
+- Unity Game code
+- School Projects
 
 Play the image below to see some of my projects:
 
